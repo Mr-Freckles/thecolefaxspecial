@@ -1,1 +1,38 @@
+.centre {
+    text-align: center;
+}
 
+.size {
+    width: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 70px;
+    font-family: Impact;
+    color: black;
+}
+
+.padding {
+    padding-top: 100px;
+}
+
+.columns {
+    columns: 3;
+}
+
+.paddings {
+    padding-top: 250px;
+}
+
+.buy {
+    padding: 100px;
+}
+
+.secret {
+    padding-top: 300px;
+    font-size: 72px;
+    background: -webkit-linear-gradient(#0cb0b3 80%, #1f05b3 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
